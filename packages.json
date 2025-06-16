@@ -1,0 +1,25 @@
+{
+  "viewScript": false,
+  "packages": [
+    {
+      "name": "gitman",
+      "repo": "acidicneko/gitman",
+      "branch": "main"
+    },
+    {
+      "name": "nyaafetch",
+      "repo": "acidicneko/nyaafetch",
+      "branch": "main"
+    },
+    {
+      "name": "zeta",
+      "repo": "acidicneko/zeta",
+      "branch": "main"
+    },
+    {
+      "name": "karui",
+      "repo": "acidicneko/karui",
+      "branch": "main"
+    }
+  ] 
+}
